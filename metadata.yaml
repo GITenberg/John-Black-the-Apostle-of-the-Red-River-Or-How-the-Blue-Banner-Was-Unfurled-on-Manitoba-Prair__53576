@@ -1,0 +1,29 @@
+_repo: John-Black-the-Apostle-of-the-Red-River-Or-How-the-Blue-Banner-Was-Unfurled-on-Manitoba-Prair__53576
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bryce, George
+    birthdate: 1844
+    deathdate: 1931
+    gutenberg_agent_id: '7323'
+    url: http://www.gutenberg.org/2009/agents/7323
+    wikipedia: http://www.mhs.mb.ca/docs/people/bryce_g.shtml
+description: ''
+gutenberg_issued: '2016-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53576'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presbyterian Church -- Missions -- Manitoba'
+- !lcsh 'Black, John, 1818-1882'
+- !lcc 'BX'
+- !lcc 'E011'
+- !lcsh 'Missionaries -- Manitoba -- Biography'
+- GITenberg
+title: "John Black, the Apostle of the Red River\r\nOr, How the Blue Banner Was Unfurled\
+  \ on Manitoba Prairies"
+url: http://www.gutenberg.org/ebooks/53576
